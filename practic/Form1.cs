@@ -16,7 +16,7 @@ namespace practic
         {
             InitializeComponent();
         }
-
+        int g = 5;
         private void btnEncryptCaesar_Click(object sender, EventArgs e)
         {
             try
